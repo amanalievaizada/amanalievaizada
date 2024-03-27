@@ -1,0 +1,6 @@
+1 команды на 1 раз
+git init -ининзилизация проекта
+git remote add origin https://github.com/amanalievaizada/amanalievaizada.git
+
+комадны регулярки:
+git add файл\n.-добавляет файлы в гит
